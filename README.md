@@ -55,6 +55,7 @@ Building a SaaS Scalable SaaS application comes with a lot of challenges. A set 
 - cloud-core
 - core-api
 - auth-core
+- payments
 - saas-subscriptions
 - ui-store
 - ui-client
